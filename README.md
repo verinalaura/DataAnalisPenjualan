@@ -1,3 +1,9 @@
+Verina Laura Prameswari
+
+12030122140259
+
+Pengkodean dan Pemrograman
+
 # SOAL
 Perusahaan Melimpah Sentosa merupakan toko serba ada yang menjual beragam produk, termasuk elektronik, pakaian, dan peralatan rumah tangga. Dalam upaya meningkatkan strategi pemasaran dan optimasi stok barang, manajemen ingin melakukan analisis mendalam terhadap data penjualan selama enam bulan terakhir. Data yang disediakan meliputi informasi mengenai faktur, jenis kelamin pembeli, jenis barang yang dibeli, serta jumlah dan tanggal pembelian.
 
